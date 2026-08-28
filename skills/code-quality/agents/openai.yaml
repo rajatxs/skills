@@ -1,0 +1,4 @@
+interface:
+    display_name: Code Quality
+    short_description: Apply production-quality coding standards
+    default_prompt: Review and improve this code using the code-quality standards.
